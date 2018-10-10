@@ -1,7 +1,7 @@
 package com.bjut;
 
 public class Test {
-    /**
+    /**zhangsf
      * 找到数组中一个重复的数字
      * 返回-1代表无重复数字或者输入无效
      */
